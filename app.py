@@ -6,7 +6,6 @@ if len(word) <= 10:
 
 
 elif len(word) > 10:
-
     middle = int(len(word) - 2)
     first = word[0]
     last = word[-1]
