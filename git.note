@@ -1,0 +1,15 @@
+git init => for the first time to init git (for one time)
+
+
+1-create repo
+2- attach repo with local git
+git remote add origin <repo link>   #for one time
+
+
+
+
+
+
+git add . => monitor for all files
+git commit -m "comment"
+git push -u origin master => push code to github
